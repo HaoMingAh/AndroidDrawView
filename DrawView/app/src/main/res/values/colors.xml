@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#222831</color>
+    <color name="colorPrimaryDark">#222831</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="drawview_backcolor">#47515f</color>
+    <color name="drawview_bottomcolor">#15181b</color>
+    <color name="pumpkin_orange">#ff7014</color>
+
+</resources>
